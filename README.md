@@ -15,11 +15,6 @@ This repository contains MATLAB scripts and data used for
 4. Run the main script to execute the full workflow.
 
 ## Pseudo Code
-ALGORITHM: Contour-Parallel Toolpath Generation
-
-INPUT: nodes.txt, elements.txt
-OUTPUT: 3D toolpaths
-
 1. LOAD MESH
    - Read nodes (X, Y, Z coordinates)
    - Read elements (triangle connectivity)
