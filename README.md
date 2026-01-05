@@ -27,7 +27,7 @@ This repository contains MATLAB scripts and data used for
 
 3. CONFORMAL MAPPING (3D → 2D)
    - Compute cotangent weights for all edges
-   - Find longest interior edge
+   - Find interior edge
    - Fix its two endpoints at (0,0) and (L,0)
    - Build sparse linear system:
      * Interior nodes: standard Laplacian (Equation 2)
